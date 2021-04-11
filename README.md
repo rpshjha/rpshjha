@@ -25,18 +25,18 @@ An Experienced Software Quality Assurance & Automation Test Engineer and a dedic
 
 # Technical Skills
 
-•	Java (4 years)
-•	Selenium Webdriver (3 years)
-•	Appium (2 years)
-•	Rest Assured (1 year)
-•	Cucumber (1 year)
-•	TestNG (4 years)
-•	Maven (4 years)
-•	Git (4 years)
-•	Jira (5 years)
-•	Javascript (Less than 1 year)
-•	PostgreSQL (1 year)
-•	Cypress (Less than 1 year)
+•	Java (4 years)\
+•	Selenium Webdriver (3 years)\
+•	Appium (2 years)\
+•	Rest Assured (1 year)\
+•	Cucumber (1 year)\
+•	TestNG (4 years)\
+•	Maven (4 years)\
+•	Git (4 years)\
+•	Jira (5 years)\
+•	Javascript (Less than 1 year)\
+•	PostgreSQL (1 year)\
+•	Cypress (Less than 1 year)\
 
 
 # Education
