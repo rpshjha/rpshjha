@@ -11,36 +11,36 @@ An Experienced Software Quality Assurance & Automation Test Engineer and a dedic
 
 <ul>
   <li>Extensive experience in Appium, Selenium WebDriver, Core Java, JUnit, TestNG, Cucumber, Rest Assured, Jasmine, Cypress, Mocha. </li>
-  </ul>
-• Extensive experience in Appium, Selenium WebDriver, Core Java, JUnit, TestNG, Cucumber, Rest Assured, Jasmine, Cypress, Mocha.\
-• Evaluated Automation Tools and implemented Appium for UI Automation and RestAssured for Rest WebServices Automation.\
-• Hands-on experience in designing the data-driven, BDD, and Page Object Model frameworks using Core Java, Cucumber, JUnit, TestNG, and Selenium WebDriver for UI Automation.\
-• Hands-on experience in designing the framework for Rest Webservices Automation using Core Java and RestAssured.\
-• Roles include Quality Assurance Engineer, and Software Test Engineer with experience in testing applications on HR, Banking, Health and Welfare, and Automotive domains with the ability to work on multiple projects.\
-• Extensive experience in developing and maintaining test scripts, effort estimation, script review, analyzing bugs.\
-• Good Working experience in SDLC environments like Agile.\
-• Working knowledge of databases such as MySQL and Postgres, and dynamo DB.\
-• Experience using different Versioning tools like GIT, build tools like Maven with integration to CI tools like Jenkins and AWS, and used Bug Tracking tool JIRA and Rally.\
-• Well experienced in analyzing the business needs, preparing the test requirement.\
-• Have Basic Knowledge of JavaScript.\
-• Good Knowledge of design patterns like factory and builder design pattern. 
+  <li>Evaluated Automation Tools and implemented Appium for UI Automation and RestAssured for Rest WebServices Automation.</li>
+  <li>Hands-on experience in designing the data-driven, BDD, and Page Object Model frameworks using Core Java, Cucumber, JUnit, TestNG, and Selenium WebDriver for UI Automation.</li>
+  <li>Hands-on experience in designing the framework for Rest Webservices Automation using Core Java and RestAssured.</li>
+  <li>Roles include Quality Assurance Engineer, and Software Test Engineer with experience in testing applications on HR, Banking, Health and Welfare, and Automotive domains with the ability to work on multiple projects.</li>
+  <li>Extensive experience in developing and maintaining test scripts, effort estimation, script review, analyzing bugs.</li>
+  <li>Good Working experience in SDLC environments like Agile.</li>
+  <li>Working knowledge of databases such as MySQL and Postgres, and dynamo DB.</li>
+  <li>Experience using different Versioning tools like GIT, build tools like Maven with integration to CI tools like Jenkins and AWS, and used Bug Tracking tool JIRA and Rally.</li>
+  <li>Well experienced in analyzing the business needs, preparing the test requirement.</li>
+   <li>Have Basic Knowledge of JavaScript.</li>
+  <li>Good Knowledge of design patterns like factory and builder design pattern. </li>
+</ul>
 
 
 # Technical Skills
 
-•	Java (4 years)\
-•	Selenium Webdriver (3 years)\
-•	Appium (2 years)\
-•	Rest Assured (1 year)\
-•	Cucumber (1 year)\
-•	TestNG (4 years)\
-•	Maven (4 years)\
-•	Git (4 years)\
-•	Jira (5 years)\
-•	Javascript (Less than 1 year)\
-•	PostgreSQL (1 year)\
-•	Cypress (Less than 1 year)
-
+<ul>
+  <li>Java (4 years)</li>
+  <li>Selenium Webdriver (3 years)</li>
+  <li>Appium (2 years)</li>
+  <li>Rest Assured (1 year)</li>
+  <li>Cucumber (2 year)</li>
+  <li>TestNG (4 years)</li>
+  <li>Maven (4 years)</li>
+  <li>Git (4 years)</li>
+  <li>Jira (5 years)</li>
+  <li>Javascript (Less than 1 year)</li>
+  <li>PostgreSQL (1 year)</li>
+  <li>Cypress (Less than 1 year)</li>
+  </ul>
 
 # Education
 
