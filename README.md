@@ -50,15 +50,15 @@ An Experienced Software Quality Assurance & Automation Test Engineer and a dedic
 
 # Professional Experience
 
-## Nagarro Software
+### Nagarro Software
 ###### Associate Staff Engineer
 > June 2019 to present
 
-## Peoplestrong HR services
+### Peoplestrong HR services
 ###### Software Test Engineer
 > Jan 2018 to Dec 2018
 
-## Aon
+### Aon
 ###### Senior Setup Configuration Specialist
 > June 2015 to Jan 2018
 
