@@ -42,6 +42,20 @@ An Experienced Software Quality Assurance & Automation Test Engineer and a dedic
   <li>Cypress (Less than 1 year)</li>
   </ul>
 
+# Professional Experience
+
+## Nagarro Software
+###### Associate Staff Engineer
+> June 2019 to present
+
+## Peoplestrong HR services
+###### Software Test Engineer
+> Jan 2018 to Dec 2018
+
+## Aon
+###### Senior Setup Configuration Specialist
+> June 2015 to Jan 2018
+
 # Education
 
 Bachelor's in Computer Science and Engineering\
