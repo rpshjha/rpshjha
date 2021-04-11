@@ -42,5 +42,5 @@ An Experienced Software Quality Assurance & Automation Test Engineer and a dedic
 # Education
 
 Bachelor's in Computer Science and Engineering\
-Rajiv Gandhi Prodyogik Vishwavidyalaya - Bhopal, Madhya Pradesh\ 
+Rajiv Gandhi Prodyogik Vishwavidyalaya - Bhopal, Madhya Pradesh 
 August 2011 to July 2015
