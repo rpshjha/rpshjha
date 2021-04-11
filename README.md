@@ -1,14 +1,15 @@
 ### Hi there 👋
 
 # Rupesh Kumar
+> Quality Assurance Engineer
 
 ### Noida, Uttar Pradesh, India
-## rpshjha@gmail.com || https://www.linkedin.com/in/rpshjha/
+###### rpshjha@gmail.com || https://www.linkedin.com/in/rpshjha/
 ###### +91 - 8826963949
 
 # About
 
-###### *Rupesh has more than 5 years of experience in the software industry. He oﬀers exposure in working primarily on Selenium WebDriver, Appium, and Rest-Assured along with vast experience in creating, executing, and maintenance of test automation framework for API, Mobile, and Web Applications. He carries a good working knowledge of databases and testing microservices architecture along with having a strong background in QA testing practices.*
+#### *Rupesh has more than 5 years of experience in the software industry. He oﬀers exposure in working primarily on Selenium WebDriver, Appium, and Rest-Assured along with vast experience in creating, executing, and maintenance of test automation framework for API, Mobile, and Web Applications. He carries a good working knowledge of databases and testing microservices architecture along with having a strong background in QA testing practices.*
 
 # Career Summary
 
@@ -63,6 +64,6 @@ An Experienced Software Quality Assurance & Automation Test Engineer and a dedic
 
 # Education
 
-#### Bachelor's in Computer Science and Engineering\
+#### Bachelor's in Computer Science and Engineering
 ###### Rajiv Gandhi Prodyogik Vishwavidyalaya - Bhopal, Madhya Pradesh 
 > August 2011 to July 2015
