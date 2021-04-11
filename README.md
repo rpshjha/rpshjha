@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # Rupesh Kumar
-> Quality Assurance Engineer
+> Quality Assurance Engineer\
 > Noida, Uttar Pradesh, India
 ###### rpshjha@gmail.com || https://www.linkedin.com/in/rpshjha/
 ###### +91 - 8826963949
