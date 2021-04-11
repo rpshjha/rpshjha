@@ -36,7 +36,7 @@ An Experienced Software Quality Assurance & Automation Test Engineer and a dedic
 •	Jira (5 years)\
 •	Javascript (Less than 1 year)\
 •	PostgreSQL (1 year)\
-•	Cypress (Less than 1 year)\
+•	Cypress (Less than 1 year)
 
 
 # Education
