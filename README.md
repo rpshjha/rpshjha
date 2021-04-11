@@ -9,6 +9,9 @@
 
 An Experienced Software Quality Assurance & Automation Test Engineer and a dedicated professional.
 
+<ul>
+  <li>Extensive experience in Appium, Selenium WebDriver, Core Java, JUnit, TestNG, Cucumber, Rest Assured, Jasmine, Cypress, Mocha. </li>
+  </ul>
 • Extensive experience in Appium, Selenium WebDriver, Core Java, JUnit, TestNG, Cucumber, Rest Assured, Jasmine, Cypress, Mocha.\
 • Evaluated Automation Tools and implemented Appium for UI Automation and RestAssured for Rest WebServices Automation.\
 • Hands-on experience in designing the data-driven, BDD, and Page Object Model frameworks using Core Java, Cucumber, JUnit, TestNG, and Selenium WebDriver for UI Automation.\
