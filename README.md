@@ -50,9 +50,13 @@ An Experienced Software Quality Assurance & Automation Test Engineer and a dedic
 
 # Professional Experience
 
+### ThoughtWorks
+###### Senior Consultant
+> May 2019 to present
+
 ### Nagarro Software
 ###### Associate Staff Engineer
-> June 2019 to present
+> June 2019 to May 2021
 
 ### Peoplestrong HR services
 ###### Software Test Engineer
