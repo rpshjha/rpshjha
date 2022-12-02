@@ -9,7 +9,7 @@
 
 # About
 
-#### *Rupesh has more than 5 years of experience in the software industry. He oﬀers exposure in working primarily on Selenium WebDriver, Appium, and Rest-Assured along with vast experience in creating, executing, and maintenance of test automation framework for API, Mobile, and Web Applications. He carries a good working knowledge of databases and testing microservices architecture along with having a strong background in QA testing practices.*
+#### *Rupesh has more than 7 years of experience in the software industry. He oﬀers exposure in working primarily on Selenium WebDriver, Appium, and Rest-Assured along with vast experience in creating, executing, and maintenance of test automation framework for API, Mobile, and Web Applications. He carries a good working knowledge of databases and testing microservices architecture along with having a strong background in QA testing practices.*
 
 # Career Summary
 
