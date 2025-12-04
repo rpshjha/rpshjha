@@ -1,73 +1,63 @@
-### Hi there 👋
+# 👋 Hi, I'm Rupesh — Senior QA Consultant | Test Automation | Mobile • Web • API | CI/CD | GenAI QA
 
-# Rupesh Kumar
-> Quality Assurance Engineer\
-> Noida, Uttar Pradesh, India\
-> +91 - 8826963949\
-> rpshjha@gmail.com || https://www.linkedin.com/in/rpshjha/
+I am a Senior QA Consultant with 10+ years of experience in building scalable, maintainable and robust automation solutions across **Web, Mobile, API, and Microservices**.
 
+My expertise spans across:
 
-# About
+### 🚀 Core Strengths
+- Test Automation (Playwright, Cypress, Selenium, Appium, WebDriverIO)
+- Mobile Automation (Android Espresso – Java/Kotlin, iOS XCUITest – Swift basics)
+- API Testing (Rest-Assured)
+- Framework Development (POM, BDD, Data-Driven, Pytest)
+- CI/CD & DevOps (GitHub Actions, Jenkins, AWS CodeBuild, Azure DevOps, Docker)
+- Event-driven Testing (Kafka, Redis)
+- Test Strategy • Test Planning • Defect Management
+- Reporting: JIRA, TestRail, Allure, Extent
+- High-level GenAI QA: Prompt testing, LLM output validation, AI-assisted test case generation
 
-#### *Rupesh has more than 7 years of experience in the software industry. He oﬀers exposure in working primarily on Selenium WebDriver, Appium, and Rest-Assured along with vast experience in creating, executing, and maintenance of test automation framework for API, Mobile, and Web Applications. He carries a good working knowledge of databases and testing microservices architecture along with having a strong background in QA testing practices.*
+---
 
-# Career Summary
+# 🔧 Technologies & Tools I Work With
+**Languages:** Java, JavaScript, Python, Kotlin  
+**Web Automation:** Playwright, Cypress, Selenium  
+**Mobile Automation:** Appium, Android Espresso, iOS XCUITest  
+**API Testing:** Rest-Assured  
+**CI/CD:** GitHub Actions, Jenkins, AWS CodeBuild  
+**Cloud/Middleware:** AWS (Basics), Kafka, Redis  
+**Test Management:** JIRA, TestRail, Confluence  
 
-An Experienced Software Quality Assurance & Automation Test Engineer and a dedicated professional.
+---
 
-<ul>
-  <li>Extensive experience in Appium, Selenium WebDriver, Core Java, JUnit, TestNG, Cucumber, Rest Assured, Jasmine, Cypress, Mocha. </li>
-  <li>Evaluated Automation Tools and implemented Appium for UI Automation and RestAssured for Rest WebServices Automation.</li>
-  <li>Hands-on experience in designing the data-driven, BDD, and Page Object Model frameworks using Core Java, Cucumber, JUnit, TestNG, and Selenium WebDriver for UI Automation.</li>
-  <li>Hands-on experience in designing the framework for Rest Webservices Automation using Core Java and RestAssured.</li>
-  <li>Roles include Quality Assurance Engineer, and Software Test Engineer with experience in testing applications on HR, Banking, Health and Welfare, and Automotive domains with the ability to work on multiple projects.</li>
-  <li>Extensive experience in developing and maintaining test scripts, effort estimation, script review, analyzing bugs.</li>
-  <li>Good Working experience in SDLC environments like Agile.</li>
-  <li>Working knowledge of databases such as MySQL and Postgres, and dynamo DB.</li>
-  <li>Experience using different Versioning tools like GIT, build tools like Maven with integration to CI tools like Jenkins and AWS, and used Bug Tracking tool JIRA and Rally.</li>
-  <li>Well experienced in analyzing the business needs, preparing the test requirement.</li>
-   <li>Have Basic Knowledge of JavaScript.</li>
-  <li>Good Knowledge of design patterns like factory and builder design pattern. </li>
-</ul>
+# 📌 What I Build on GitHub
+- End-to-end automation frameworks  
+- Mobile automation POCs (Espresso/XCUITest/Appium)  
+- Web automation frameworks (Playwright/Cypress)  
+- API automation suites  
+- Reusable test utilities & libraries  
+- CI/CD pipelines for automation  
+- New: Experimenting with **GenAI-powered test generation** and LLM quality checks
 
+---
 
-# Technical Skills
+# 🌱 Currently Exploring
+- LLM/GenAI in QA (prompt testing, validation, response evaluation)  
+- Improving mobile automation stability across Android & iOS  
+- Scalable automation architecture for enterprise apps  
 
-<ul>
-  <li>Java (4 years)</li>
-  <li>Selenium Webdriver (3 years)</li>
-  <li>Appium (2 years)</li>
-  <li>Rest Assured (1 year)</li>
-  <li>Cucumber (2 year)</li>
-  <li>TestNG (4 years)</li>
-  <li>Maven (4 years)</li>
-  <li>Git (4 years)</li>
-  <li>Jira (5 years)</li>
-  <li>Javascript (Less than 1 year)</li>
-  <li>PostgreSQL (1 year)</li>
-  <li>Cypress (Less than 1 year)</li>
-  </ul>
+---
 
-# Professional Experience
+# 🤝 Open to Collaborations On:
+- SDET / QA Automation projects  
+- Mobile testing + framework development  
+- Playwright / Cypress framework templates  
+- GenAI QA research & tooling  
 
-### ThoughtWorks
-###### Senior Consultant
-> May 2021 to present
+---
 
-### Nagarro Software
-###### Associate Staff Engineer
-> June 2019 to May 2021
+# 📫 Let’s Connect
+- **LinkedIn:** https://linkedin.com/in/rpshjha  
+- **GitHub:** https://github.com/rpshjha  
+- **Email:** rpshjha@gmail.com  
 
-### Peoplestrong HR services
-###### Software Test Engineer
-> Jan 2018 to Dec 2018
-
-### Aon
-###### Senior Setup Configuration Specialist
-> June 2015 to Jan 2018
-
-# Education
-
-#### Bachelor's in Computer Science and Engineering
-###### Rajiv Gandhi Prodyogik Vishwavidyalaya - Bhopal, Madhya Pradesh 
-> August 2011 to July 2015
+---
+⭐ If you're hiring for SDET, Senior QA, Automation Engineer, or Mobile QA roles — feel free to reach out. I'm always open to exciting opportunities!
